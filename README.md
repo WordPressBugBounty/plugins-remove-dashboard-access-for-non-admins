@@ -1,0 +1,1 @@
+# plugins-remove-dashboard-access-for-non-admins
